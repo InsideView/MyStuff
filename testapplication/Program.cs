@@ -10,6 +10,8 @@ namespace testapplication
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("I am the best of the best");
+
         }
     }
 }
